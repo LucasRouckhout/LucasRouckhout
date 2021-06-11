@@ -17,7 +17,7 @@ I'm Lucas, I'm a Belgian based software engineer and technologist. Making stuff 
 
 ## Curriculum vitae for `grep` based HR
 
-I'm Proficient in the following Languages (Ordered by expierence):
+I'm Proficient in the following Languages (Ordered by experience):
 * Go
 * Java
 * Bash
