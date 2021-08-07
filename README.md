@@ -1,6 +1,8 @@
 # Hi
 
-I'm Lucas, I'm a Belgian based software engineer and technologist. Making stuff that works, works well and stays working well is what I love to do. While prototyping is exiting I love the phase of software development where you throw away the prototype and start creating the actual thing. Diving deep, understanding, improving and tweaking is my passion. That said I'm a big believer in the DevOps mentality and try to understand and own all aspect of the tech-stack I'm working. I try to avoid living in a ivory tower of technology. I believe a lot of value comes from people who can cross the boundaries of their respecitve fields of expertise.
+I'm Lucas, I'm a Belgian based software engineer and technologist. I'm a life long learner who likes to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is something I love to do. That said I'm also a big believer in having a DevOps culture/mentality and try to understand and take ownership of all aspect of the tech-stack I'm working on. I try to avoid living in a ivory tower of technology and believe a lot of value can come from people who cross the boundaries of their respective fields of expertise.
+
+Throughout my career I have come to appreciate that what we create can have (and has) real world impact. I try to take pride in my work and care about the quality of what I deliver. At the end of the day there are real human beings who use and depend on our software to live their lives and do their jobs. We should take what we do seriously and believe we should look at software development like a craft that requires practice, professionalism and rigor to get right.
 
 ## I believe in
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
