@@ -16,6 +16,7 @@ Throughout my career I have come to appreciate that what we create can have (and
 ## I don't believe in
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
 * Agile™ (The monster that is monolithic Agile frameworks)
+* DevOps as a Role (One of my pet peves, DevOps is a culture/idea not a role you can hire)
 
 ## Curriculum vitae for `grep` based HR
 
