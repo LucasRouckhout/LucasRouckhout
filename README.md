@@ -26,6 +26,7 @@ I'm Proficient in the following Languages (Ordered by experience):
 * C/C++
 * Javascript
 * Python
+* Rust
 
 I work with following Technologies on a daily basis:
 * Containerization (Docker, Kubernetes)
