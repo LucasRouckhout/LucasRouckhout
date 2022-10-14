@@ -21,12 +21,12 @@ Throughout my career I have come to appreciate that what we create can have (and
 
 I'm Proficient in the following Languages (Ordered by experience):
 * Go
+* Javascript / Typescript
 * Java
 * Bash
-* Javascript
-* Kotlin
-* C/C++
 * Python
+* C/C++
+* Kotlin
 * Rust
 
 I work with following Technologies on a daily basis:
