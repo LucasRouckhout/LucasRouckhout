@@ -1,6 +1,6 @@
 # Hi
 
-I'm Lucas, I'm a Belgian based software and devops engineer. I'm a life long learner who likes to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is something I love to do. That said I'm also a big believer in having a DevOps culture/mentality and take pride in my ability to be a generalist. I try to avoid living in a ivory tower of technology and believe a lot of value can come from people who cross the boundaries of their respective fields of expertise.
+I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is something I love to do.
 
 Throughout my career I have come to appreciate that what we create can have (and has) real world impact. I try to take pride in my work and care about the quality of what I deliver. At the end of the day there are real human beings who use and depend on our software to live their lives and do their jobs. We should take what we do seriously and believe we should look at software development like a craft that requires practice, professionalism and rigor to get right.
 
@@ -16,6 +16,7 @@ Throughout my career I have come to appreciate that what we create can have (and
 ## I don't believe in
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
 * Agile™ (The monster that is monolithic Agile frameworks)
+* Using Javascript for everything
 
 ## Curriculum vitae for `grep` based HR
 
