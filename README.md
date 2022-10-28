@@ -1,8 +1,6 @@
 # Hi
 
-I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is something I love to do.
-
-Throughout my career I have come to appreciate that what we create can have (and has) real world impact. I try to take pride in my work and care about the quality of what I deliver. At the end of the day there are real human beings who use and depend on our software to live their lives and do their jobs. We should take what we do seriously and believe we should look at software development like a craft that requires practice, professionalism and rigor to get right.
+I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is my passion.
 
 ## I believe in
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
@@ -12,6 +10,7 @@ Throughout my career I have come to appreciate that what we create can have (and
 * [TCP](https://datatracker.ietf.org/doc/html/rfc793)/[IP](https://datatracker.ietf.org/doc/html/rfc791)
 * Life long learning
 * [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law)
+* > "Good design is as little design as possible." -- some German motherfucker on [motherfuckingwebsite](https://motherfuckingwebsite.com/)
 
 ## I don't believe in
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
@@ -37,3 +36,5 @@ I work with following Technologies on a daily basis:
 * Cloud computing (AWS, Google Cloud, and Digital Ocean, and Azure if I have to)
 
 📫 You can reach me at: lucas.rouckhout@gmail.com
+
+
