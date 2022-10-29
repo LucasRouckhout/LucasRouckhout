@@ -1,6 +1,6 @@
 # Hi
 
-I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking is my passion.
+I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stuff that works, works well and stays working well. Diving deep, understanding, improving and tweaking are my passions.
 
 ## I believe in
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
