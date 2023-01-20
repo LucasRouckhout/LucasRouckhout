@@ -14,6 +14,7 @@ I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stu
 * > "Software engineering is programming integrated over time." -- Software Engineering At Google
 
 ## I don't believe in
+* "Move fast and break things"
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
 * Agile™ (The monster that is monolithic Agile frameworks)
 * Using Javascript for everything
