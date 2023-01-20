@@ -11,6 +11,7 @@ I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stu
 * Life long learning
 * [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law)
 * > "Good design is as little design as possible." -- some German motherfucker on [motherfuckingwebsite](https://motherfuckingwebsite.com/)
+* > "Software engineering is programming integrated over time." -- Software Engineering At Google
 
 ## I don't believe in
 * [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
