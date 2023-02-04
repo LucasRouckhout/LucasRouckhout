@@ -22,20 +22,25 @@ I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stu
 ## Curriculum vitae for `grep` based HR
 
 I'm Proficient in the following Languages (Ordered by experience):
-* Go
-* Javascript / Typescript
-* Java
-* Bash
-* Python
-* C/C++
-* Kotlin
-* Rust
+1. Go
+2. Javascript / Typescript (only backend)
+3. Java
+4. Bash
+5. C
+6. Python
+7. PHP
 
 I work with following Technologies on a daily basis:
 * Containerization (Docker, Kubernetes)
+* Serverless computing
 * Linux
 * Networking
 * Cloud computing (AWS, Google Cloud, and Digital Ocean, and Azure if I have to)
+
+I have worked with these technologies as well:
+* GraphQL
+* RabbitMQ
+* DynamoDB
 
 📫 You can reach me at: lucas.rouckhout@gmail.com
 
