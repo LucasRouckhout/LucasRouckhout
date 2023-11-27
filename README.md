@@ -15,9 +15,9 @@ I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stu
 
 ## I don't believe in
 * "Move fast and break things"
-* [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming) (Kinda why I like Go as a language since it does not invite this kind of behavior as much IMO)
+* [Cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
 * Agile™ (The monster that is monolithic Agile frameworks)
-* Using Javascript for everything
+* Using Javascript/Python for everything
 
 ## Curriculum vitae for `grep` based HR
 
@@ -35,7 +35,7 @@ I work with following Technologies on a daily basis:
 * Serverless computing
 * Linux
 * Networking
-* Cloud computing (AWS, Google Cloud, and Digital Ocean, and Azure if I have to)
+* Cloud computing (AWS mostly but have worked with all the big vendors)
 
 I have worked with these technologies as well:
 * GraphQL
