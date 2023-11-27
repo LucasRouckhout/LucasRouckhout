@@ -9,7 +9,6 @@ I'm Lucas, I'm a Belgian based software and devops engineer. I like to build stu
 * Open sourcing everything!
 * [TCP](https://datatracker.ietf.org/doc/html/rfc793)/[IP](https://datatracker.ietf.org/doc/html/rfc791)
 * Life long learning
-* [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law)
 * > "Good design is as little design as possible." -- some German motherfucker on [motherfuckingwebsite](https://motherfuckingwebsite.com/)
 * > "Software engineering is programming integrated over time." -- Software Engineering At Google
 
