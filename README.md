@@ -35,6 +35,7 @@ I work with following Technologies on a daily basis:
 * Linux
 * Networking
 * Cloud computing (AWS mostly but have worked with all the big vendors)
+* Relational Databases (MySQL and Postgres mostly)
 
 I have worked with these technologies as well:
 * GraphQL
