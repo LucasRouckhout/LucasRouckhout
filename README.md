@@ -6,8 +6,8 @@ I'm Lucas, I'm a Belgian based software engineer. I like to build stuff that wor
 
 I'm Proficient in the following Languages (Ordered by experience):
 1. Go
-2. Javascript / Typescript (only backend)
-3. Java
+2. Java
+3. Javascript / Typescript (only backend)
 4. Bash
 5. C
 6. Python
