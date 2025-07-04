@@ -28,4 +28,4 @@ I actively use LLMs as coding assistants to accelerate my development workflow -
 
 ## Get in touch
 
-📧 lucas.rouckhout@gmail.com
+📫 lucas.rouckhout@gmail.com
