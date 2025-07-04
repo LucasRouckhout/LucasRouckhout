@@ -24,7 +24,7 @@ I'm Lucas, a Belgian software engineer passionate about building robust, maintai
 
 I prioritize building things that work reliably over chasing the latest trends. Whether it's debugging a tricky distributed system or designing a new service, I focus on understanding the problem deeply before jumping to solutions.
 
-I actively use LLMs as coding assistants to accelerate my development workflow - from generating boilerplate code to exploring different approaches to complex problems. However, I remain a critical reviewer who personally writes all mission-critical sections and validates every AI-generated suggestion. This symbiotic relationship lets me focus my expertise where it matters, high level thinking, while delegating routine tasks. I believe this hybrid approach is the future of development, potentially doubling productivity while maintaining the deep domain expertise that separates good developers from great ones.
+I actively use LLMs as coding assistants to accelerate my development workflow - from generating boilerplate code to exploring different approaches to complex problems. However, I remain a critical reviewer who personally writes all mission-critical sections and validates every AI-generated suggestion. This symbiotic relationship lets me focus my expertise where it matters, high level thinking, while delegating routine tasks. I believe this hybrid approach is the future of development, potentially doubling developer productivity as long as they stay experts in their field.
 
 ## Get in touch
 
